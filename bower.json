@@ -21,7 +21,7 @@
     "tests"
   ],
   "dependencies": {
-    "angular": "1.2.*",
+    "angular": "1.5.3",
     "imgcache.js": "https://github.com/chrisben/imgcache.js.git"
   }
 }
